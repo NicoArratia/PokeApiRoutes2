@@ -1,0 +1,24 @@
+.Card {
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+}
+
+.PCard {
+    width: 500px;
+}
+
+.Stats {
+    text-align:justify;
+}
+
+.CTitle {
+    margin: 0.5rem;
+    font-weight: 800;
+    padding-top: 0.5rem;
+}
+
+.PImg {
+    padding: 0.5rem;
+    height:400px;
+}

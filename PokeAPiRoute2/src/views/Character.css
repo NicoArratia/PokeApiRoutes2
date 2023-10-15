@@ -1,0 +1,13 @@
+.SelectForm {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.TitleC {
+    font-weight: 600;
+    padding-top: 2rem; 
+    padding-bottom: 1rem; 
+}
